@@ -11,5 +11,6 @@
 
 📚 Always learning. Currently enrolled in Dibimbing’s Data Science Bootcamp.
 
-Let’s connect and explore how data can drive better decisions 🚀
+Let’s connect and explore how data can drive better decisions:
+
 [Portofolio PowerPoint](https://heylink.me/anawidiyawati/)
